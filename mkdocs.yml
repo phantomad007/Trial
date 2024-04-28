@@ -14,22 +14,19 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
-  palette:
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 # Sun icon for light theme
-        name: Switch to dark mode
-      primary: "#4c51bf" # Purple primary color
-      accent: "#ff7e67" # Coral accent color
-    - scheme: slate
-      toggle:
-        icon: material/brightness-1 # Moon icon for dark theme
-        name: Switch to light mode
-      primary: "#2196f3" # Blue primary color
-      accent: "#4caf50" # Green accent color
-extra_css:
-  - stylesheets/extra.css
-
+palette:
+  - scheme: default
+    toggle:
+      icon: material/brightness-7 # Sun icon for light theme
+      name: Switch to dark mode
+    primary: "#4c51bf" # Purple primary color
+    accent: "#ff7e67" # Coral accent color
+  - scheme: slate
+    toggle:
+      icon: material/brightness-1 # Moon icon for dark theme
+      name: Switch to light mode
+     primary: "#2196f3" # Blue primary color
+     accent: "#4caf50" # Green accent color
 
 markdown_extensions:
   - pymdownx.highlight:
