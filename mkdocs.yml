@@ -29,16 +29,15 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
-
 nav:
   - Home:
-    - home.md
+      - home.md
   - About Me: 
-    - about.md
+     - about.md
   - Contact: 
-    - contact.md
+     - contact.md
   - Experience: 
-    - experience.md
+     - experience.md
 
 markdown_extensions:
   - pymdownx.highlight:
