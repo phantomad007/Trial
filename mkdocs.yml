@@ -30,12 +30,11 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - docs:
-    - docs/home.md
-    - Page 1: docs/about.md
-    - Page 2: docs/contact.md
-    - Page 3: docs/experience.md
-    - Page 4: docs/contact.md  
+  - section:
+    - section/home.md
+    - Page 1: about.md
+    - Page 2: contact.md
+    - Page 3: experience.md
 
 markdown_extensions:
   - pymdownx.highlight:
