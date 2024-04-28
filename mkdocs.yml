@@ -30,8 +30,8 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - section: phantomad007.github.io/Trial/home
-    - section/home.md
+  - Home:
+    - home.md
     - About me: about.md
     - Contact: contact.md
     - Experience: experience.md
