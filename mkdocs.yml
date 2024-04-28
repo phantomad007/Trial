@@ -29,6 +29,14 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+nav:
+  - docs:
+    - docs/home.md
+    - Page 1: docs/about.md
+    - Page 2: docs/contact.md
+    - Page 3: docs/experience.md
+    - Page 4: docs/contact.md  
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
