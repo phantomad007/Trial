@@ -31,13 +31,12 @@ extra_css:
 
 nav:
   - Home:
-      - 'Home': home.md
-  - About Me: 
-    - about.md
-  - Contact: 
-    - contact.md
-  - Experience: 
-    - experience.md
+    - home.md
+    - About me: about.md
+    - Contact: contact.md
+    - Experience: experience.md
+
+
 
 markdown_extensions:
   - pymdownx.highlight:
