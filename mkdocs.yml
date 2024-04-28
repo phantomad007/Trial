@@ -28,11 +28,6 @@ theme:
       accent: "#4caf50" # Green accent color
 extra_css:
   - stylesheets/extra.css
-nav:
-  - Home: ./home.md
-  - About: ./about.md
-  - Experience: ./experience.md
-  - Contact: ./contact.md
 
 markdown_extensions:
   - pymdownx.highlight:
