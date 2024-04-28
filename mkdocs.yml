@@ -30,7 +30,7 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Home:
+  - section:
     - home.md
     - About me: about.md
     - Contact: contact.md
