@@ -31,7 +31,7 @@ extra_css:
 
 nav:
   - section:
-    - home.md
+    - section/home.md
     - About me: about.md
     - Contact: contact.md
     - Experience: experience.md
